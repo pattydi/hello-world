@@ -1,2 +1,4 @@
 # hello-world
-One giant leap...
+
+Hello Party People,
+Patty here. Up, up and away we go! 
